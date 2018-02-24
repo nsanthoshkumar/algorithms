@@ -1,7 +1,3 @@
----
-title: HelloWorld
-permalink: helloworld.md
----
 
 ````
 function helloworld() {
