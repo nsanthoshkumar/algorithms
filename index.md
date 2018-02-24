@@ -1,3 +1,3 @@
 ### Algorithms
 
-*  [a Hello World](helloworld.md)
+*  [Hello World](helloworld.md)
